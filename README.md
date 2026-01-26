@@ -101,6 +101,14 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 
 ---
 
+## 📅 Day-wise Learning Progress
+
+| Day | Topic | Description |
+|-----|-------|-------------|
+| Day 01 | NumPy Basics | Introduction of NumPy, Why NumPy is used?, First NumPy array |
+
+---
+
 ## 🎯 Purpose of this Repository
 - To build strong foundations in NumPy
 - To prepare for Data Analyst / Data Science roles
