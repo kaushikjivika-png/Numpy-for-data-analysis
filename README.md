@@ -106,6 +106,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 | Day | Topic | Description |
 |-----|-------|-------------|
 | Day 01 | NumPy Basics | Introduction of NumPy, Why NumPy is used?, First NumPy array |
+| Day 02 | Numpy Operations | Array Attributes, Arithmatic Operations, Statistical Operations |
 
 ---
 
