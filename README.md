@@ -107,6 +107,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 |-----|-------|-------------|
 | Day 01 | NumPy Basics | Introduction of NumPy, Why NumPy is used?, First NumPy array |
 | Day 02 | Numpy Operations | Array Attributes, Arithmatic Operations, Statistical Operations |
+| Day 03 | Numpy Array Creation | Zeros array, Ones array, Empty array, Arange array, Identity array, Linspace array |
 
 ---
 
