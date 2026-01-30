@@ -19,43 +19,42 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 - Why NumPy is faster than Python lists
 - NumPy ndarray
 
-### 2️⃣ Array Creation
-- `np.array()`
-- `np.zeros()`
-- `np.ones()`
-- `np.full()`
-- `np.arange()`
-- `np.linspace()`
-- Random arrays (`np.random.rand`, `np.random.randint`)
-
-### 3️⃣ Array Attributes
+### 2️⃣ Array Attributes
 - `ndim`
 - `shape`
 - `size`
 - `dtype`
 - `itemsize`
 
-### 4️⃣ Indexing & Slicing
-- Positive indexing
-- Negative indexing
-- Slicing 1D arrays
-- Slicing 2D arrays
-- Boolean indexing
-
-### 5️⃣ Array Operations
+### 3️⃣ Array Operations
 - Arithmetic operations (+, -, *, /)
 - Operations between arrays
 - Scalar operations
 - Comparison operations
 
-### 6️⃣ Mathematical Functions
-- `sum()`
-- `mean()`
+### 4️⃣ Statistical Operations
 - `min()` / `max()`
-- `std()` / `var()`
 - `sqrt()`
-- `log()`
-- `exp()`
+- `argmin()`
+- `argmax()`
+- `cumsum()`
+- `sin()`
+- `cos()`
+
+### 5️⃣ Array Creation
+- `np.zeros()`
+- `np.ones()`
+- `np.empty()`
+- `np.arange()`
+- `np.eye()`
+- `np.linspace()`
+
+### 6️⃣ Indexing & Slicing
+- Positive indexing
+- Negative indexing
+- Slicing 1D arrays
+- Slicing 2D arrays
+- Boolean indexing
 
 ### 7️⃣ Shape Manipulation
 - `reshape()`
