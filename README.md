@@ -109,6 +109,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 | Day 03 | Numpy Array Creation | Zeros array, Ones array, Empty array, Arange array, Identity array, Linspace array |
 | Day 04 | Numpy Indexing and Slicing | Positive array, Negative array, Slicing 1D array, Slicing 2D array, Boolean array |
 | Day 05 | Numpy Shape Manipulation | Reshape, Flatten, Transpose, Resize |
+| Day 06 | Numpy Aggregation Functions | Row-wise operation, Column-wise operation, Axis-concept |
 
 ---
 
