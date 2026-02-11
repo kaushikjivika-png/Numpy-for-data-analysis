@@ -113,6 +113,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 | Day 07 | Numoy Join and Split | Concatenation, vstack, hstack, split | 
 | Day 08 | Numpy Sorting and Searching | sort(), argsort(), where(), argmax(), argmin() |
 | Day 09 | Numpy Copy vs View | Shallow copy, Deep copy, Difference between copy and view |
+| Day 10 | Numpy Practice Questions Part-1 | 
 ---
 
 ## 🎯 Purpose of this Repository
