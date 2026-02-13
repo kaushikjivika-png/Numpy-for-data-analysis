@@ -115,6 +115,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 | Day 09 | Numpy Copy vs View | Shallow copy, Deep copy, Difference between copy and view |
 | Day 10 | Numpy Practice Questions Part-1 | 
 | Day 11 | Numpy Practice Question Part-2 |
+| Day 12 | Numpy Practice Question Part-3 |
 ---
 
 ## 🎯 Purpose of this Repository
