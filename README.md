@@ -117,6 +117,7 @@ and is widely used in Data Analysis, Machine Learning, and AI.
 | Day 11 | Numpy Practice Question Part-2 |
 | Day 12 | Numpy Practice Question Part-3 |
 | Day 13 | Numpy Practice Question Part-4 |
+| Day 14 | Student Marks Analyzer Project | Mini project using NumPy to analyze student marks, calculate total and average scores, assign grades, find subject-wise averages, identify the top-performing student, and detect low performers. |
 ---
 
 ## 🎯 Purpose of this Repository
